@@ -8,6 +8,7 @@ determines whether or not there exist two elements in S whose sum is exactly x. 
 #include <algorithm>
 using namespace std;
 //garv jain
+/changes thru github
 int main()
 {
     //int arr[] = {0, -1, 2, -3, 1};
