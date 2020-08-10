@@ -6,16 +6,22 @@
 //using namespace std;
 
 //map<int, int> m1;
+//void insertInMAp(int key, int value)
+//{
+//    m1.insert(make_pair(key,value));
+//}
+//void DisplayMap(map<int, int> map1)
+//{
+//    for (auto &ell : map1)
+//    {
+//        cout << ell.first << " " << ell.second << endl;
+//    }
+//}
 
 //int main()
 //{
-//    m1[5] = 10;
-//    m1[10] = 15;
-
-//    for (auto &ell : m1)
-//    {
-//        cout << ell.first << endl;
-//    }
-
+//    insertInMAp(1,10);
+//    insertInMAp(2,15);
+//    DisplayMap(m1);
 //    return 0;
 //}
